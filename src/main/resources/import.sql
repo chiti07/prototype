@@ -1,0 +1,7 @@
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Mancuernas', '', 30592, 10, '2021-01-01')
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Trotadora', '', 59000, 10, '2021-01-01')
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Escaladora', '', 500000, 10, '2021-01-01')
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Pelota', '', 20000, 10, '2021-01-01')
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Proteína', '', 45000, 10, '2021-01-01')
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Barras', '', 50000, 10, '2021-01-01')
+INSERT INTO products (name, description, price, amount, created_at) VALUES('Tapete', '', 15850, 10, '2021-01-01')
